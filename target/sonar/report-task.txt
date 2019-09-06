@@ -1,0 +1,6 @@
+projectKey=com.xoriant.demo3:demo3
+serverUrl=http://localhost:9000
+serverVersion=7.9.1.27448
+dashboardUrl=http://localhost:9000/dashboard?id=com.xoriant.demo3%3Ademo3
+ceTaskId=AW0BZkV348j6wYb--bNH
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AW0BZkV348j6wYb--bNH
